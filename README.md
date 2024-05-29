@@ -20,8 +20,8 @@ This project allows you to transfer copied text and images between two devices c
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/jainikkhil/clipboard-sync-socket.git
-    cd clipboard-sync-socket
+    git clone https://github.com/jainikkhil/CTRL-C-V_ALL_DEVICES_HOTSPOT_-SOCKET-.git
+    cd CTRL-C-V_ALL_DEVICES_HOTSPOT_-SOCKET-
     ```
 
 2. Install the required Python libraries:
